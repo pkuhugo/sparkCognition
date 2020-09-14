@@ -1,6 +1,3 @@
-# sparkCognition
-data science assignment
-SparkCognition
 Introduction:
 In this assignment, I am going to build a model to predict whether a customer will respond to the marketing campaign based on the training dataset. I'll use the model to predict the customer responses using the features provided in the test dataset.
 
