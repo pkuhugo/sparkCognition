@@ -1,4 +1,4 @@
-Introduction:
+# Introduction:
 In this assignment, I am going to build a model to predict whether a customer will respond to the marketing campaign based on the training dataset. I'll use the model to predict the customer responses using the features provided in the test dataset.
 
 In the training dataset, there are 7414 samples and 21 predictor feature. The target variable "responded" has two values, "yes" and "no". Thus, this project is a binary classification problem. In the exploratory analysis, the 21 predictors were separated into three categories: personal, bank activity ,and macro-economic data, and their statistics were examined to get some intuitive between the predictors and target.
@@ -14,7 +14,8 @@ The assignment was intended to build a model that can be used to create some use
 Feature engineering to extract useful information from current predictors.
 Test class weight parameters to improve the results in class responded "Yes".
 Other models can also be tested, for example, Neural network.
-Deliverables:
+
+# Deliverables:
 Provide the following:
 
 The source code you used to build the model and make predictions.
